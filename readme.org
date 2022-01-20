@@ -1,0 +1,14 @@
+#+latex_class: cn-article
+#+title: Android OpenGL NDK Image Video Processing 练习
+#+author: deepwaterooo
+
+* OpenGL Camera add Real time filters -- OpenCV
+- the project was initially cloned from https://github.com/ben622/LearnOpenGL
+  - and for the 1st time during my career, I was ever exposed to and able to build a OpenCV project locally today, and am being exposed to this module now....... 
+- have studies a few Android Camear projects, but still on the way to get more familiar with Android Camera 2 and NDK, OpenGL (, OpenCV )......
+- the focus one this project is: 
+  - Get more familiar with Android Camera 2, as well as widely used real time filters design and implementation;
+  - Get more familiar with OpenGL 
+  - all the shaders that are used by different filters are glsl coded, which is way more convenient for me to learn than combined to be strings, so try to learn more about opengl shaders
+  - try to understand the theory behind OpenCV
+  
